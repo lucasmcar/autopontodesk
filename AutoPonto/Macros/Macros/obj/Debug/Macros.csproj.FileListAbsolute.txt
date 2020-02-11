@@ -1,0 +1,9 @@
+C:\Users\E30265\source\repos\Macros\Macros\bin\Debug\Macros.exe.config
+C:\Users\E30265\source\repos\Macros\Macros\bin\Debug\Macros.exe
+C:\Users\E30265\source\repos\Macros\Macros\bin\Debug\Macros.pdb
+C:\Users\E30265\source\repos\Macros\Macros\obj\Debug\Macros.csprojAssemblyReference.cache
+C:\Users\E30265\source\repos\Macros\Macros\obj\Debug\Macros.Properties.Resources.resources
+C:\Users\E30265\source\repos\Macros\Macros\obj\Debug\Macros.csproj.GenerateResource.cache
+C:\Users\E30265\source\repos\Macros\Macros\obj\Debug\Macros.csproj.CoreCompileInputs.cache
+C:\Users\E30265\source\repos\Macros\Macros\obj\Debug\Macros.exe
+C:\Users\E30265\source\repos\Macros\Macros\obj\Debug\Macros.pdb
